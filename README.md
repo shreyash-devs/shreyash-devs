@@ -29,14 +29,10 @@ I’m a results-driven developer who enjoys building meaningful applications tha
 
 ## 📱 Major Projects
 
-### ✅ [ClicknGo – Visitor Registration & Faculty Tracker App](https://play.google.com/store/apps/details?id=com.vision.click_n_go)
+### ✅ [ClicknGo – Visitor Registration & Faculty Tracker App](https://play.google.com/store/search?q=clickngo&c=apps&hl=en)
 - Live on Play Store | 1000+ downloads | 5000++ successful registrations  
 - QR-based login & real-time faculty alerts  
 - Hardware-free & scalable solution adopted by Government Polytechnic Nashik
-
-### ✅ Credit Score UI App (Internship Assignment)
-- Fintech-style Flutter app with UI screens for profile, banking, credit score, and referral
-- Clean code structure, dark theme, animations, and responsive layout
 
 ### ✅ Song Recommendation System
 - Built using Python and ML clustering algorithms
