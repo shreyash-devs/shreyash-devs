@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Shreyash Dubewar!
 
 🎓 Final-year Diploma Student | 💻 Flutter & Firebase Developer | 🧠 AI/ML Enthusiast  
-🏆 National Hackathon Winner | 📊 Data Science Intern @ Sumago Infotech | ♟️ State-level Chess Player  
+🏆 National Hackathon Winner | 📊 Ex-Data Science Intern @ Sumago Infotech | ♟️ State-level Chess Player  
 
 ---
 
