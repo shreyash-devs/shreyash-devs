@@ -35,12 +35,6 @@
 
 ---
 
-//## 📊 GitHub Activity
-
-//![Shreyash's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyash-devs&show_icons=true&hide_border=true)
-
-//---
-
 ## 📫 Reach Me
 
 - 🔗 LinkedIn → https://www.linkedin.com/in/shreyashdubewar  
