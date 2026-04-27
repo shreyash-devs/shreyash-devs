@@ -7,9 +7,9 @@
 
 ## 🚀 What I’m Working On
 
-- 📱 Crafting scalable apps with Flutter & React  
-- 🧠 Designing AI-powered systems and data workflows  
-- 🔗 Experimenting with blockchain and distributed architectures  
+- 📱 Scalable apps with Flutter & React  
+- 🧠 AI-powered systems & data workflows  
+- 🔗 Exploring blockchain & distributed architectures  
 
 ---
 
@@ -24,32 +24,28 @@
 
 ## 🛠️ Tech Stack
 
-**Frontend & Mobile**  
-`Flutter` `React` `TypeScript`  
+### ⚡ Core Stack  
+![My Skills](https://skillicons.dev/icons?i=flutter,react,ts,nodejs,fastapi,python,dart)
 
-**Backend & APIs**  
-`FastAPI` `Node.js` `Express`  
+### 🧠 Data & Systems  
+![My Skills](https://skillicons.dev/icons?i=postgres,redis,firebase,git,github)
 
-**Data & Intelligence**  
-`Python` `Pandas` `Scikit-learn` `XGBoost`  
-
-**Infrastructure & Systems**  
-`Firebase` `PostgreSQL` `Redis` `Neo4j`  
-
-**Exploring**  
-`Blockchain (Algorand, Polygon)` `Distributed Systems`
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=shreyash-devs&show_icons=true&hide_border=true" />
-</p>
+### 🔗 Exploring  
+`Blockchain (Algorand, Polygon)` • `Distributed Systems` • `System Design`
 
 ---
+
+//## 📊 GitHub Activity
+
+//![Shreyash's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyash-devs&show_icons=true&hide_border=true)
+
+//---
 
 ## 📫 Reach Me
 
-- LinkedIn → https://www.linkedin.com/in/shreyashdubewar  
-- Email → shreyash-devs.work@gmail.com  
+- 🔗 LinkedIn → https://www.linkedin.com/in/shreyashdubewar  
+- 📧 Email → shreyash-devs.work@gmail.com  
 
 ---
 
-> I like building things that solve real problems — and scaling them until they break.
+> I build fast, break things, and figure out why they broke.
