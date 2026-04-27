@@ -1,34 +1,43 @@
 # 👋 Hey, I'm Shreyash
 
-💻 Full-stack developer building across mobile, backend & intelligent systems  
-⚡ Interested in AI/ML, system design, and real-world problem solving  
+💻 Building across mobile, backend & intelligent systems  
+⚡ Focused on AI/ML, system design, and real-world impact  
 
 ---
 
-## 🚀 What I’m Building
+## 🚀 What I’m Working On
 
-- 📱 Scalable apps with Flutter & React  
-- 🧠 AI-powered systems & data-driven products  
-- 🔗 Exploring blockchain + distributed architectures  
+- 📱 Crafting scalable apps with Flutter & React  
+- 🧠 Designing AI-powered systems and data workflows  
+- 🔗 Experimenting with blockchain and distributed architectures  
 
 ---
 
 ## 🧩 Selected Work
 
-- **ClickNGo** → Real-world deployed app (1.5K+ downloads, 7K+ entries)  
-- **TapToStream** → Pay-per-view streaming using blockchain payments  
-- **CodeMap** → Visualizing codebases with AI + graph systems  
+- **ClickNGo** → Deployed product (1.5K+ downloads, 7K+ entries)  
+- **TapToStream** → Pay-per-view streaming with on-chain payments  
+- **CodeMap** → AI + graph-powered codebase visualization  
 - **Transit Command** → ML-based demand prediction system  
 
 ---
 
-## 🛠️ Tech I Use
+## 🛠️ Tech Stack
 
-`Flutter` `React` `FastAPI` `Node.js`  
-`Python` `Dart` `TypeScript`  
+**Frontend & Mobile**  
+`Flutter` `React` `TypeScript`  
+
+**Backend & APIs**  
+`FastAPI` `Node.js` `Express`  
+
+**Data & Intelligence**  
+`Python` `Pandas` `Scikit-learn` `XGBoost`  
+
+**Infrastructure & Systems**  
 `Firebase` `PostgreSQL` `Redis` `Neo4j`  
-`Scikit-learn` `XGBoost`  
-`Algorand` `Polygon`
+
+**Exploring**  
+`Blockchain (Algorand, Polygon)` `Distributed Systems`
 
 ---
 
@@ -39,4 +48,4 @@
 
 ---
 
-> Building things that actually get used.
+> I like building things that solve real problems — and scaling them until they break.
